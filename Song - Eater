@@ -1,6 +1,0 @@
-get TrailConnect.TerrainFC_Engine
-     //do not delete if downloading source code\\
-new(Target:pshaggy_staticidle, ?Graphic:Null<pshaggy_staticidle>, Length:Int = LengthOfCharacter, Delay:Int = DelayIntCharacter, Alpha:Float = AnimateFloat, Diff:Float = DIFFAnimateFloat)\
-new(X:Float = 0, Y:Float = 0, ?SimpleGraphic:Null<pshaggy_staticidle>)
-new(X:Float = 0, Y:Float = 0, ?SimpleGraphic:Null<notesLeftDownUpRightRhombusLeftYELLOWDownRUpBLUERightGREEN>)
-new(X:Float = 0, Y:Float = 0, ?SimpleGraphic:Null<bg_1>)
