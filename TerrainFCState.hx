@@ -15,6 +15,6 @@ get script TerrainFCEngine_EditorMenus.CharacterEditor
 get script TerrainFCEngine_FunkinUI.StoryModeButton
 get script TerrainFCEngine_FunkinUI.FreeplayButton
 get script TerrainFCEngine_FunkinUI.OptionsButton
-    
+get script TerrainFCEngine_FunkinData.SongScript 
     
     
