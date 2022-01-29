@@ -1,5 +1,4 @@
-get file TerrainFCsource.txt
-    //do not edit\\ get object polymod-source
+get script TerrainFCHaxeSupport.sourcescript
 get script TerrainFCEngine.sourcescript
 get script TerrainFCEngine_FunkinHUD.Notes
 get script TerrainFCEngine_FunkinHUD.Counters
