@@ -1,2 +1,4 @@
 NOT IN SONG: 0.2.7.1 FNF - 1.2 TerrainFC Engine
-IN SONG: SongName Normal/Easy/Hard: TFCE 1.2
+IN SONG: SongName Difficulty - TFCE 1.2
+Example NOT IN SONG: 0.2.8 FNF - 1.2 TerrainFC Engine
+Example IN SONG: Where-are-you Normal - TFCE 1.2
